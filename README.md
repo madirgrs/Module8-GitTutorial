@@ -6,3 +6,4 @@ Actually learning Git!
 - git pull
 - git push
 - get clone
+- git push
