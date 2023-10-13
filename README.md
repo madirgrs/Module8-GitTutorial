@@ -7,3 +7,7 @@ Actually learning Git!!!!!!!!!!!!!
 - git push
 - get clone
 - git push
+
+
+## Kool Stuff
+- learning branching
